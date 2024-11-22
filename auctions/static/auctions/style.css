@@ -1,0 +1,25 @@
+body {
+    
+    padding: 10px;
+}
+
+.cmt5{
+    margin: 15px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.priceOwner{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#userInput{
+    margin-left: 50px;
+}
+.mb-3{
+    width: 500px;
+}
+.form-group{
+    width: 500px;
+}
