@@ -1,10 +1,7 @@
 # COMMERCE
  
 COMMERCE is  an online project that enables people to trade online. The project consists of:
-            1. models, which include user,            
-               category,listings, price and comments.
-               Models are the framework on
-               which project auction is based on.
+1. models, which include user,category,listings, price and comments.Models are the framework on which project auction is based on.
                a) The user is prompted to sign in to    
                   access the services..... 
                   (username,email,password)
